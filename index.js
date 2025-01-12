@@ -1,4 +1,4 @@
-const item = ""
+const item = "";
 const init = (value) => {
   return value;
 };
